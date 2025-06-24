@@ -1,0 +1,104 @@
+{
+  "originUrl": "https://together-ladybug.10web.cloud",
+  "lastCrawled": "https://together-ladybug.10web.cloud/",
+  "urls": [
+    {
+      "url": "https://together-ladybug.10web.cloud/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "c005ef26d61fdabc8f826886c95965ecfedb2340"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/about-us/",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us",
+      "id": "d94ab421d8b92ac161dc4a48ce22c0f11a193a92"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/camping-under-the-stars-a-night-of-serenity-in-yosemite/",
+      "source": "SITEMAPS",
+      "targetPath": "/camping-under-the-stars-a-night-of-serenity-in-yosemite",
+      "id": "73e4061ae7e53fd3fe12a4ed95a599c73f3c932e"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/category/backpacking/",
+      "source": "SITEMAPS",
+      "targetPath": "/category/backpacking",
+      "id": "e16887cdad7c702e57cec3bb7370851554499e37"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/category/camping/",
+      "source": "SITEMAPS",
+      "targetPath": "/category/camping",
+      "id": "aa85d4691228f7ac80a0d0016d3540c1cbad59dd"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/category/hiking/",
+      "source": "SITEMAPS",
+      "targetPath": "/category/hiking",
+      "id": "32a7c166a1f1809e0e32558c08bc2c9634ce1214"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/category/rock-climbing/",
+      "source": "SITEMAPS",
+      "targetPath": "/category/rock-climbing",
+      "id": "58109426b0db0815bdacd0c42d76f25d25975d5a"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/conquering-the-summit-my-epic-hiking-adventure-in-the-alps/",
+      "source": "SITEMAPS",
+      "targetPath": "/conquering-the-summit-my-epic-hiking-adventure-in-the-alps",
+      "id": "1818050b63865178436c1bfa272917128d1e30cf"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/contact/",
+      "source": "SITEMAPS",
+      "targetPath": "/contact",
+      "id": "5cdb062cd400618c3e48b8d51224e19c4e6b0a52"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/destinations/",
+      "source": "SITEMAPS",
+      "targetPath": "/destinations",
+      "id": "50d59bdca961dd267b7fdae43e08c43c6f48ae79"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/exploring-the-backcountry-trails-of-glacier-national-park/",
+      "source": "SITEMAPS",
+      "targetPath": "/exploring-the-backcountry-trails-of-glacier-national-park",
+      "id": "77a676c2a9b9447668686446f9f84942f1d15294"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/privacy-policy/",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-policy",
+      "id": "08d9aad7c7a7e2a9b35215bf905344b588ec2634"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/rock-climbing-adventures-in-zion-national-park/",
+      "source": "SITEMAPS",
+      "targetPath": "/rock-climbing-adventures-in-zion-national-park",
+      "id": "a898fd3d14484678b276674c0342a692eb9d3c3d"
+    },
+    {
+      "url": "https://together-ladybug.10web.cloud/terms-and-conditions/",
+      "source": "SITEMAPS",
+      "targetPath": "/terms-and-conditions",
+      "id": "df33bac0016bae8cac402ab9afbe922620aef70b"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
